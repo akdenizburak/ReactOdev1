@@ -1,0 +1,24 @@
+{
+  "name": "reactodev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdenizburak/reactGetDataFromFakeEndpoint.git"
+  },
+  "author": "akdenizburak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akdenizburak/reactGetDataFromFakeEndpoint/issues"
+  },
+  "homepage": "https://github.com/akdenizburak/reactGetDataFromFakeEndpoint#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
